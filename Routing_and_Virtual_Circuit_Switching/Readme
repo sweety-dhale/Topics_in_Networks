@@ -1,0 +1,13 @@
+
+HOW TO RUN THE CODE:
+
+1. Run the executable routing.o file using ./routing.o command
+2. First command line argument should be topplogy file.
+3. Second command line argument should be connection file.
+4. Third command line argument should be Routing Table file.
+5. Fourth command line argument should be Forwarding Table file.
+6. Fifth command line argument should be Paths file.
+7. Sixth command line argument sgould be Flag value (hop/dist).
+8. Seventh command line argument sgould be p value (0/1).
+
+eg:  ./routing.o top14.doc NSFNET_100.doc RoutingTable.doc ForwardTable.doc PathsFile.doc hop 0
