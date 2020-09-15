@@ -1,0 +1,9 @@
+The purpose of this assignment is to understand the concept of queues.
+
+HOW TO RUN THE CODE
+
+1. Run the executable Queue_simulation.o file using ./Queue_simulation.o command
+2. Enter the choice i.e a,b,c for part A, B and C respectively.
+3. Enter the arrival rate.
+4. Enter the service rate.
+5. Enter the time of simulation i.e for how long the customers should arrive in the system.
